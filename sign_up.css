@@ -1,0 +1,98 @@
+body {
+    padding-top: 8%;
+}
+
+table {
+    margin: auto;
+    height: 80%;
+    width: 35%;
+    border-collapse: collapse;
+}
+
+.labels, #header, #footer {
+    color:rgb(255, 255, 24);
+    font-weight: 40;
+}
+
+#headercell {
+    font-weight: 40;
+    padding-left: 3%;
+}
+
+#header, #footer {
+    background-color: orange;
+}
+
+#header {
+    text-align: left;
+    width: 100%;
+    height: 40px;
+}
+
+tbody {
+    background-color: rgb(7, 7, 40);
+}
+
+td.labels {
+    text-align: right;
+    padding-right: 5%;
+}
+
+#footer {
+    text-align: right;
+    width: 100%;
+    height: 40px;
+    /* padding: 0 10%; */
+}
+
+#footercell {
+    padding-top: 3%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+}
+
+#submitbtn {
+    background-color: rgb(50, 180, 50);
+    border: none;
+    padding: 10px 5px;
+    width: 25%;
+}
+
+#cancelbtn {
+    background-color: rgb(172, 50, 50);
+    border: none;
+    padding: 10px 5px;
+    width: 25%;
+}
+ #tandc {
+    padding-right: 45px;
+    text-align: right;
+ }
+
+/* ul.no-bullets {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 50%;
+}
+
+.label, #header {
+    color:yellow
+}
+
+#header {
+    background-color: orange;
+    padding: 8px;
+}
+
+#body {
+    background-color: rgb(7, 7, 81);
+}
+
+input {
+    width: 60%;
+}
+
+label {
+    text-align: center;
+} */
